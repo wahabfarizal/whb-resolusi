@@ -1,6 +1,8 @@
 RENCANA KONTENT WHB
 
 - javascript
+  *ES6
+  *framework javascript
 - php frameworks
 - interview
 - vlog
