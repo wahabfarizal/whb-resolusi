@@ -4,6 +4,7 @@ RENCANA KONTENT WHB
   *ES6
   *framework javascript
    ^ vue
+   ^ rect
 - struktur data dasar
 - php frameworks
  ^ lavarel
