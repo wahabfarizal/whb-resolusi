@@ -3,9 +3,11 @@ RENCANA KONTENT WHB
 - javascript
   *ES6
   *framework javascript
-   ^ angular
+   ^ vue
    ^ rect
+- struktur data dasar
 - php frameworks
- ^ laravel
+ ^ lavarel
 - interview
 - vlog
+- python
