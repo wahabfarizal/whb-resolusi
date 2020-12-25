@@ -3,6 +3,7 @@ RENCANA KONTENT WHB
 - javascript
   *ES6
   *framework javascript
+- struktur data dasar
 - php frameworks
 - interview
 - vlog
